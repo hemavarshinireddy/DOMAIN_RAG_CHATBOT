@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Generated vector index
+vector_store/saved_index/
+
+# OS / editor
+.DS_Store
+.vscode/
